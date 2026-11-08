@@ -88,8 +88,8 @@ O teste usa banco temporário, não apaga os seus cadastros. Verifica fluxo comp
 - Turma e professor: 202602 - EAD - ADS 5A - Antonio de Oliveira Dias.
 - GitHub: https://github.com/mpincerno/petshop-academico
 - Board: https://github.com/users/mpincerno/projects/1/views/1
-- Vídeo AC1: **PREENCHER COM URL REAL**.
-- Vídeo AC2: **PREENCHER COM URL REAL**.
-- Vídeo AC3: **PREENCHER COM URL REAL**.
-- Vídeo final: **PREENCHER QUANDO GRAVADO**.
+- Vídeo AC1 - Clientes: https://drive.google.com/file/d/1nw4AfgRpjcuO3FHbByeYvY4lQcmUJRQV/view
+- Vídeo AC2 - Pets e tutores: https://drive.google.com/file/d/1atIsMc1nXNJDXH77q1Hls6nopgoURkOs/view
+- Vídeo AC3 — Agendamento de serviços: https://drive.google.com/file/d/1cv3nLB9xCeryUcpowmvXYErGmSZMDFrw/view
+- Vídeo final:
 
