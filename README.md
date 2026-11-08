@@ -83,13 +83,13 @@ O teste usa banco temporário, não apaga os seus cadastros. Verifica fluxo comp
 
 ## Participantes e links — preencher antes da entrega
 
-- Integrantes (nome completo e RA): **PREENCHER**.
-- Turma e professor: **PREENCHER**.
-- GitHub: **PREENCHER COM URL REAL**.
-- Board: **PREENCHER COM URL REAL**.
+- Aluno: Mauro Pincerno Neto
+- RA: 2203219
+- Turma e professor: 202602 - EAD - ADS 5A - Antonio de Oliveira Dias.
+- GitHub: https://github.com/mpincerno/petshop-academico
+- Board: https://github.com/users/mpincerno/projects/1/views/1
 - Vídeo AC1: **PREENCHER COM URL REAL**.
 - Vídeo AC2: **PREENCHER COM URL REAL**.
 - Vídeo AC3: **PREENCHER COM URL REAL**.
 - Vídeo final: **PREENCHER QUANDO GRAVADO**.
 
-Nenhum repositório remoto, board ou vídeo foi criado automaticamente. Confirme com o professor o ano do calendário e como regularizar as ACs atrasadas. Não altere datas de commits para simular entregas antigas.
