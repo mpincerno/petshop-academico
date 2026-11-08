@@ -1,0 +1,37 @@
+PROJETO DE SOFTWARE — PETSHOP MANAGER
+
+Entrega: [AC1 / AC2 / AC3 / Final — escolha uma]
+Turma: [preencher]
+Professor(a): [preencher]
+Data real desta postagem: [preencher]
+
+PARTICIPANTES DO GRUPO (1 a 7 alunos)
+1. Nome completo: [preencher] — RA: [preencher]
+2. [Acrescente os demais ou remova esta linha se individual]
+
+FUNCIONALIDADE NOVA DESTA ENTREGA
+[AC1: cadastro de clientes]
+[AC2: cadastro de pets com vínculo ao tutor]
+[AC3: agendamento de serviços com bloqueio de conflito e cancelamento]
+[Final: conclusão de atendimentos e painel gerencial]
+Mantenha somente a linha correspondente e complemente com o que demonstrou.
+
+GitHub: [colar URL real do repositório]
+Board de funcionalidades: [colar URL real do quadro]
+Vídeo desta entrega: [colar URL real do vídeo]
+
+ARQUITETURA
+Front-end: HTML, CSS e JavaScript.
+Back-end: Node.js e Express.
+Banco: SQLite.
+O README inclui instalação e execução.
+
+VALIDAÇÃO REALIZADA PELO ALUNO
+[Descreva brevemente o teste que você executou e o resultado.]
+
+OBSERVAÇÃO, SE NECESSÁRIA
+[Para entrega atrasada, relate o atraso de forma verdadeira e siga a orientação do professor. Remova se não se aplicar.]
+
+Antes de enviar: substituir todos os colchetes; conferir acesso aos links;
+assistir ao vídeo; verificar a atividade correta e efetivar a entrega.
+Cada integrante deve fazer sua própria postagem.

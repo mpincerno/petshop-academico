@@ -1,0 +1,17 @@
+ID,Etapa,Titulo,Historia,Prioridade,Situacao_sugerida,Criterio_de_aceite,Responsavel,Evidencia
+AC1-01,AC1,Cadastrar clientes,Como atendente quero registrar tutores,Alta,Em validação,Salvar nome e telefone válidos e recusar telefone inválido,Preencher,Preencher com teste e commit reais
+AC1-02,AC1,Consultar e manter clientes,Como atendente quero buscar e corrigir contatos,Alta,Em validação,Buscar por nome ou telefone e editar e excluir sem vínculos,Preencher,Preencher
+AC1-03,AC1,Persistir cadastros,Como atendente quero conservar dados ao reiniciar,Alta,Em validação,Reiniciar modo AC1 e conferir mesmo cliente,Preencher,Preencher
+AC1-04,AC1,Gravar e postar AC1,Como aluno quero demonstrar cadastro de clientes,Alta,A fazer,Vídeo próprio e links acessíveis e postagem individual conforme orientação de atraso,Preencher,Preencher
+AC2-01,AC2,Vincular pet ao tutor,Como atendente quero saber quem é responsável pelo pet,Alta,Em validação,Pet exige cliente existente e lista nome do tutor,Preencher,Preencher
+AC2-02,AC2,Manter pets e proteger vínculos,Como atendente quero preservar relações entre cadastros,Alta,Em validação,Editar pet e impedir excluir cliente com pet,Preencher,Preencher
+AC2-03,AC2,Gravar e postar AC2,Como aluno quero demonstrar a novidade de pets,Alta,A fazer,Vídeo próprio e links e postagem individual conforme orientação de atraso,Preencher,Preencher
+AC3-01,AC3,Agendar serviço,Como atendente quero reservar cuidados por horário,Alta,Em validação,Escolher pet e serviço e data e hora e persistir,Preencher,Preencher
+AC3-02,AC3,Bloquear conflito,Como atendente quero evitar duas reservas na mesma vaga,Alta,Em validação,Segunda reserva no mesmo início retorna conflito,Preencher,Preencher
+AC3-03,AC3,Cancelar e filtrar agenda,Como atendente quero liberar vaga e consultar situação,Alta,Em validação,Cancelar mantém histórico e libera horário e filtro funciona,Preencher,Preencher
+AC3-04,AC3,Publicar código e board,Como aluno quero disponibilizar fontes e planejamento,Alta,A fazer,GitHub real e board real acessíveis pelo professor,Preencher,Preencher
+AC3-05,AC3,Gravar e postar AC3,Como aluno quero demonstrar agenda até 08/11,Alta,A fazer,Vídeo mostra novidade e cada integrante envia requisitos,Preencher,Preencher
+FINAL-01,Final,Concluir atendimento,Como atendente quero encerrar um serviço realizado,Alta,Em validação,Somente Agendado passa a Concluído e não reabre,Preencher,Preencher
+FINAL-02,Final,Consultar painel,Como gestor quero ver contagens e receita demonstrativa,Alta,Em validação,Somar só concluídos e mostrar quantidade por serviço,Preencher,Preencher
+FINAL-03,Final,Revisar e ensaiar apresentação,Como aluno quero explicar as três camadas,Alta,A fazer,Testes passam e grupo explica regras e limites,Preencher,Preencher
+FINAL-04,Final,Gravar e postar final,Como aluno quero entregar a nova função do painel,Média,A fazer,Vídeo final e README revisados e postagem individual até 01/12,Preencher,Preencher

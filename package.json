@@ -1,0 +1,17 @@
+{
+  "name": "petshop-academico",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Projeto acadêmico em três camadas: clientes, pets, agenda e painel",
+  "type": "module",
+  "engines": { "node": ">=24.0.0 <25" },
+  "scripts": {
+    "start": "node src/server.js",
+    "ac1": "node src/server.js --etapa=ac1",
+    "ac2": "node src/server.js --etapa=ac2",
+    "ac3": "node src/server.js --etapa=ac3",
+    "final": "node src/server.js --etapa=final",
+    "test": "node --test"
+  },
+  "dependencies": { "express": "5.1.0" }
+}
