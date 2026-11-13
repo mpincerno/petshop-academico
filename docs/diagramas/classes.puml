@@ -1,0 +1,58 @@
+@startuml
+title PetShop Manager - Diagrama de classes conceitual
+skinparam classAttributeIconSize 0
+skinparam shadowing false
+skinparam classBackgroundColor #EDF4EE
+hide circle
+class Cliente {
+  -id: Integer
+  -nome: String
+  -telefone: String
+  -email: String [0..1]
+  --
+  +alterarContato()
+  +validarContato()
+}
+class Pet {
+  -id: Integer
+  -nome: String
+  -especie: String
+  -raca: String [0..1]
+  --
+  +alterarCadastro()
+}
+class Servico {
+  -id: Integer
+  -nome: String
+  -precoCentavos: Integer
+  --
+  +consultarPreco(): Integer
+}
+class Agendamento {
+  -id: Integer
+  -inicio: String
+  -precoCentavos: Integer
+  -status: Situacao
+  --
+  +cancelar()
+  +concluir()
+}
+enum Situacao {
+  Agendado
+  Concluido
+  Cancelado
+}
+Cliente "1" -- "0..*" Pet : possui
+Pet "1" -- "0..*" Agendamento : recebe
+Servico "1" -- "0..*" Agendamento : define
+note bottom of Agendamento
+  No banco, Concluido é gravado como "Concluído".
+  inicio = data/hora civil no formato AAAA-MM-DDTHH:00.
+  Preço em centavos; cancelamento preserva histórico.
+end note
+legend bottom
+  Modelo conceitual do domínio.
+  O JavaScript implementa as operações em funções e rotas Express,
+  não como métodos literais de classes instanciadas.
+endlegend
+@enduml
